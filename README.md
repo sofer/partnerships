@@ -1,23 +1,22 @@
-# Partnerships
+# Using our model
 
 ## Intended audience
-This document is intended for those who are interested in using our pedagogical model to set up software training schools.
+This document is intended for those who are interested in using our model to set up a sustainable learning environment and want assistance in doing so.
+
+## Summary
+To organisations that share our values, we can offer a training, development and support to help you establish a new site. 
 
 ## Values
-We are open to partnerships with any organisation that broadly shares our values, as laid out in our statement of purpose.
+Our commitment broadly is to empowering individuals through peer-led learning and collaborative work. Specifically, we are commited to:
++ sharing software through participation in open source software projects;
++ sharing knowledge through the open publication of learning materials;
++ widening access and participation in our programmes.
 
-## Resources
-The key resources required for running a school after our model are a curriculum and experienced personnel.
+## Training, development and support 
+The key resources required for running a new site after our model, once funding and premises have been secured, are a curriculum, experienced personnel, and local knowledge. We are able to help you develop a curriculum, provide staff and training, and assist in developing a sustainable business model appropriate to your locality.
 
-## Personnnel
-We can tap into our mentor and alumni network to act an agency for helping to recruit personnel for a new school. The cost of personnel depends entirely on the availability of suitable candidates and their willingness to get involved in the setting up of that school. 
+## Sustainability
+Our school in London is on a sustainable footing while providing education free at the point of use to our students. We are continuing to refine our business model and to develop a variety of income streams applicable to different environments and with different demographics. Our aim is to create sustainable businesses that provide opportunities to people regardless of their background.
 
-## Curriculum materials
-We open source our learning materials, therefore we make no intellectual property claims on that material. However, we only knowingly work with partners, commercial or non-commercial, who share our values and, in particular, respect the principles of open source software and documentation. This does not mean that every project an organisation works on needs to be open source or every part of that organisation needs to be open to public scrutiny, but that .the organisation needs to demonstrate a commitment to participation in open source software projects and to the contribution of learning materials into the public realm.
-
-## Using the name
-We would not expect anyone to use our name unless expressly agreed with us. Conversely, we do not expect to have any claim on any organisation that happens to make use of our materials or of staff supplied by us.
-
-## Commercial work
-We have sister companies that develop software for clients in London and sub-contract work to our graduates. These companies already have something of a remote working culture and are likely to be capable of sub-contracting work to teams working remotely. We do not ourselves engage directly in commercial software development, but are able to make introductions to our partner companies.
-
+## Costs
+We charge for the training, development and support services that we provide. These costs are dependent on the nature of the partnership, the constitution of the partner (commercial vs non-commercial), the location of the project, and the actual services rendered by us.
